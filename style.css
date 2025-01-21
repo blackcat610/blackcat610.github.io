@@ -53,7 +53,7 @@ p {
 }
 
 #headshot {
-	width: 12.5%;
+	width: 25%;
 	float: left;
 	margin-right: 30px;
 }
@@ -127,6 +127,7 @@ section:last-child {
 	font-style: italic;
 	font-size: 1.5em;
 	color: #cf8a05;
+	margin-bottom: 10px;
 }
 
 .sectionContent h2 {
