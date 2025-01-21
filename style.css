@@ -48,6 +48,10 @@ p {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 }
 
+#name h3 {
+	margin-left: 4px;
+}
+
 #mainArea {
 	padding: 0 40px;
 }
